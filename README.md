@@ -48,13 +48,13 @@
 
 ## 截屏
 
-![Hackintool](./screenshots/Hackintool.png)
+![Hackintool](./ScreenShots/Hackintool.png)
 
-![Hackintool_Miscs](./screenshots/Hackintool_Misc.png)
+![Hackintool_Miscs](./ScreenShots/Hackintool_Misc.png)
 
-![Hackintool_Audio](./screenshots/Audio.png)
+![Hackintool_Audio](./ScreenShots/Audio.png)
 
-![Hackintool_USBPorts](./screenshots/Hackintool_USB.png)
+![Hackintool_USBPorts](./ScreenShots/Hackintool_USB.png)
 
 ## 其它信息
 
