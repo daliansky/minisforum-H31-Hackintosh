@@ -8,8 +8,8 @@
 | 操作系统 |                  macOS Big Sur 11.4 `20F71`                  |
 |  处理器  |                     英特尔 酷睿 i7-9700                      |
 |   内存   |                        16 GB 2666MHz                         |
-|  硬盘1   |                   KINGSTON OM8PDP3256B-A01                   |
-| 硬盘2/3  |                    可接SATA 2.5寸硬盘/SSD                    |
+|  硬盘1   |             KINGSTON OM8PDP3256B-A01[NVMe 2280]              |
+| 硬盘2/3  |              可接SATA 2.5寸硬盘/SSD[SATA 2242]               |
 |   显卡   |                    Intel UHD Graphics 630                    |
 |  显示器  |                              无                              |
 |   声卡   |                   Realtek ALC892 `alcid=7`                   |
